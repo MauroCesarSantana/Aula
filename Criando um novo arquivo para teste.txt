@@ -1,3 +1,4 @@
 Criando um novo arquivo para teste
 Já lascou o arquivo não deu pra fazer a conexão com o github
 Parece que depois de duas horas deu certo a conexão com hub
+interessante deu certo o projeto eta subindo corretamente 
